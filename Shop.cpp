@@ -8,7 +8,7 @@ int main() {
   std::cout << "Конфета стоит: " << candy;
   std::cout << "\nКонфета по скидке: " << candy - discount;
   std::cout << "\nКоличество: " << many;
-  std::cout <<"\n" << (candy - discount) * many;
+  std::cout <<"\nК оплате: " << (candy - discount) * many;
 
 
   
