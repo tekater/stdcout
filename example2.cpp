@@ -5,7 +5,7 @@ int main() {
     std::cout << "Name\t\t\b: \"The war and the peace\"";
     std::cout << "\nAvtor\t\t\b: L.N. Tolstoj";
     std::cout << "\nIzdatelstvo: Piter";
-    std::cout << "\nPages\t\t\:500\n";
+    std::cout << "\nPages\t\t\b:500\n";
   
     std::cout << "\n“U lukomor’a dub zelenij,";
     std::cout << "\nZlataya zep na dupe tom,";
